@@ -50,7 +50,7 @@ namespace compte_library
         }
         public override string ToString()
         {
-            return "ce compte a pour numero" + this.NumeroDeCompte + "il appartien à" + this.NomDuProprietaireDuCompte + "sont solde est de" + this.SoldeDuCompte + "et sont découvert autoriser est de" + this.DecouvertAutorise;
+            return "ce compte a pour numero " + this.NumeroDeCompte + " il appartien à " + this.NomDuProprietaireDuCompte + " sont solde est de " + this.SoldeDuCompte + " et sont découvert autoriser est de " + this.DecouvertAutorise;
         }
     }
 }
